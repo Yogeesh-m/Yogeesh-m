@@ -23,8 +23,8 @@ I'm eager to dive into the world of software development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/yogeesh-m23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-n-prasad" height="30" width="40" /></a>
-<a href="https://instagram.com/_rony__20_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rony__20_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yogeesh-m23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-n-prasad" height="30" width="40" /></a>
+
 </p>
 
 ## 🌱 What I'm working on
