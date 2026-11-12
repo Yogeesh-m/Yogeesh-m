@@ -1,43 +1,112 @@
-## Hi there 👋
 
-# Hi, I'm Yogeesh M 👋
-v 
-I'm **Yogeesh M**, currently an intern at **Pentagon Space**, where I’m learning **Core Java** to develop clean and efficient applications. I enjoy working on real-world projects and learning new technologies to enhance my programming expertise.
-I'm eager to dive into the world of software development.                                                                                                                                                                                                                                                                                                                                                       
- 
-- 📫 How to reach me **yogeeshy39@gmail.com**    
-<!DOCTYPE html>
-<html lang="en">
-<head> 
-  <meta charset="UTF-8">   
-</head>
-<body>  
-   
-  <!-- Profile Views Badge -->  
-  <img src="https://komarev.com/ghpvc/?username=Yogeesh-m&color=blueviolet" alt="Profile Views">
-</body>
-  </html>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<!-- PROFILE HEADER -->
 
+<h1 align="center">Hi 👋, I'm Yogeesh M</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yogeesh-m23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-n-prasad" height="30" width="40" /></a>
+<h3 align="center">Java Full Stack Developer | Computer Science Graduate | Software Development Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yogeesh-m&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
-
-## 🌱 What I'm working on
-- Core Java   
-- Object-Oriented Programming  
-- Practicing and improving core concepts in software development
-- Staying consistent with GitHub commits and hands-on practice
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
 
-- **Languages**: Java, HTML/CSS, Javascript, React
-- **Tools**: MySQL, Git, VS Code, Eclipse  
-  
+- 🎓 BE Computer Science Engineering graduate from Malnad College of Engineering, Hassan.
+- 💻 Trained in Java Full Stack Development at Pentagon Space.
+- 🚀 Interested in building responsive web applications and backend solutions.
+- 🌱 Currently strengthening my knowledge of Java, React.js, SQL and software development.
+- 🔍 Interested in Java Development, Full Stack Development and IT opportunities.
+- 📫 Reach me at: **yogeeshy39@gmail.com**
 
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,materialui" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+</p>
+
+**Other Concepts:** OOP, JDBC, JSP, Servlets, SQL, Session Management, Role-Based Access Control (RBAC), SDLC, XML, XSLT and Network Fundamentals.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. PetHub – Online Pet Shop
+**Technologies:** Java, JSP, Servlets, JDBC, MySQL, HTML, CSS, JavaScript
+
+- Developed a full-stack e-commerce application for online pet product management.
+- Implemented user registration, login, shopping cart and order management.
+- Developed an admin dashboard with Role-Based Access Control (RBAC).
+- Integrated MySQL for product, customer and order management.
+
+### 2. HealthCare – Online Hospital Management Platform
+**Technologies:** React.js, JavaScript, Material-UI, Firebase
+
+- Developed a responsive hospital management web application using React.js.
+- Implemented patient registration, doctor listings and appointment booking.
+- Integrated Firebase Authentication for user login.
+- Used React Router for smooth navigation between application modules.
+
+---
+
+## 📚 Currently Learning
+
+- Core Java and Object-Oriented Programming
+- Advanced Java (JDBC, JSP and Servlets)
+- React.js and JavaScript
+- SQL and Database Management
+- Git and GitHub
+- Software Development Life Cycle (SDLC)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogeesh-m&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeesh-m&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yogeesh-m&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yogeesh-m23/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://github.com/Yogeesh-m" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+</p>
+
+📧 **Email:** yogeeshy39@gmail.com
+
+---
+
+<p align="center">
+  <b>💡 Learning, Building and Growing Every Day!</b>
+</p>
